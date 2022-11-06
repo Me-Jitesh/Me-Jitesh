@@ -5,8 +5,8 @@
 - #### 🌱 I’m Currently Learning <b>Microservices</b> ;
 - #### 🏆 <i>My Wakatime Insights</i> : 
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Er_Jrsingh/36dc9757-d02d-4902-9013-91de98faeffd.png" width="45%"/></a>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Er_Jrsingh/4f6101c8-8d9c-4fc5-8128-0bcccdffc51a.png" width="45%"/></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Er_Jrsingh/36dc9757-d02d-4902-9013-91de98faeffd.png" width="46%"/></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Er_Jrsingh/4f6101c8-8d9c-4fc5-8128-0bcccdffc51a.png" width="46%"/></a>
 
 <p> <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=me-jitesh&repo=LogisticsInventoryManagement&theme=gotham" alt="me-jitesh" width="45%"/></p>
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Er_Jrsingh&theme=gotham&layout=compact&hide=GitIgnore%20file,IDEA_Module,http%20request,other,text,git%20config,groovy" alt="me-jitesh" width="45%" height="100%"/></p>
