@@ -4,7 +4,7 @@
 
 > #### 🌱 I’m Currently Learning : **_Microservices_**
 > #### 💼 Resume : <a href="https://drive.google.com/drive/folders/1O4yaMPTZH3mKJsC--QO8-sPINjRzZbVZ?usp=sharing"> »»⨳»» </a>
-> #### <⁄> LeetCode : <a href="https://github.com/Me-Jitesh/DSABasics"> »»⨳»» </a>
+> #### <⁄> LeetCode : <a href="https://leetcode.com/Me-Jitesh/"> »»⨳»» </a>
 > #### 🏆 <i>My Wakatime Insights</i> : 
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Er_Jrsingh/36dc9757-d02d-4902-9013-91de98faeffd.png" width="48%"/></a>
