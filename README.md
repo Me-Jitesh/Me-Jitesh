@@ -3,8 +3,8 @@
 <h1 align="center">Hello 👋, I’m <b>JITESH SINGH</b></h1>
 
 > #### 🌱 I’m Currently Learning : **_Microservices_**
-> #### 💼 Resume : <a href="https://drive.google.com/drive/folders/1O4yaMPTZH3mKJsC--QO8-sPINjRzZbVZ?usp=sharing" target="_blank"> »»⨳»» </a>
 > #### <⁄> LeetCode : <a href="https://leetcode.com/Me-Jitesh/" target="_blank"> »»⨳»» </a>
+> #### 🛢 Logistics Inventory Management Project Hosted : <a href="https://ishopee.up.railway.app/" target="_blank"> »»⨳»» </a>
 > #### 🏆 <i>My Wakatime Insights</i> : 
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Er_Jrsingh/36dc9757-d02d-4902-9013-91de98faeffd.png" width="48%"/></a>
