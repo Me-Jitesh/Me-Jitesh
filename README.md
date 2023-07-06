@@ -1,11 +1,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=me-jitesh&label=PROFILE%20VISITS&color=blueviolet&style=flat" alt="me-jitesh"/> </p>
 
-<h1 align="center">Hello 👋, I’m <b>JITESH SINGH</b></h1>
+![Header](./github-header-image.png)
+
+<hr>
 
 > #### 🌱 I’m Currently Learning : **_Microservices_**
 > #### <⁄> LeetCode : <a href="https://leetcode.com/Me-Jitesh/" target="_blank"> »»⨳»» </a>
 > #### 🛢 Logistics Inventory Management Project Hosted : <a href="https://ishopee.up.railway.app/" target="_blank"> »»⨳»» </a>
 > #### 🏆 <i>My Wakatime Insights</i> :
+
+<hr>
 
 <!-- Wakatime Reports -->
   <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Er_Jrsingh/7fbb4e36-10f6-4ac7-b1df-b52bb7507d48.png" width="48%"/></a>
