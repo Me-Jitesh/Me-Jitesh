@@ -14,7 +14,7 @@
 <!-- Repo Card -->
 <p>
   <img align="left" 
-       src="https://github-readme-stats.vercel.app/api/pin/?username=me-jitesh&repo=LogisticsInventoryManagement&theme=onedark&hide_border=true" 
+       src="https://github-readme-stats.vercel.app/api/pin/?username=me-jitesh&repo=LogisticsInventoryManagement&theme=midnight-purple&hide_border=true" 
        alt="me-jitesh" width="47%"
  />
 </p>
@@ -22,7 +22,7 @@
 <!--  Wakatime stats -->
 <p> 
   <img align="center" 
-       src="https://github-readme-stats.vercel.app/api/wakatime?username=Er_Jrsingh&layout=compact&langs_count=8&theme=onedark&hide_border=true" 
+       src="https://github-readme-stats.vercel.app/api/wakatime?username=Er_Jrsingh&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true" 
        alt="me-jitesh" width="47%" height="100%"
   />
 </p>
@@ -30,7 +30,7 @@
 <!--  GitHub Stats -->
 <p> 
   <img align="left" 
-       src="https://github-readme-stats.vercel.app/api?username=me-jitesh&local=en&theme=onedark&hide_border=true&show_icons=true" 
+       src="https://github-readme-stats.vercel.app/api?username=me-jitesh&local=en&theme=midnight-purple&hide_border=true&show_icons=true" 
        alt="me-jitesh" width="47%"
   />
 </p>
@@ -38,7 +38,7 @@
 <!--  Streak Stats -->
 <p> 
   <img align="left" 
-       src="https://github-readme-streak-stats.herokuapp.com/?user=me-jitesh&theme=onedark&hide_border=true" 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=me-jitesh&theme=midnight-purple&hide_border=true" 
        alt="me-jitesh" width="47%"
   />
 </p>
