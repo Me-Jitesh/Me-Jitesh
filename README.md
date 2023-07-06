@@ -5,10 +5,11 @@
 > #### 🌱 I’m Currently Learning : **_Microservices_**
 > #### <⁄> LeetCode : <a href="https://leetcode.com/Me-Jitesh/" target="_blank"> »»⨳»» </a>
 > #### 🛢 Logistics Inventory Management Project Hosted : <a href="https://ishopee.up.railway.app/" target="_blank"> »»⨳»» </a>
-> #### 🏆 <i>My Wakatime Insights</i> : 
+> #### 🏆 <i>My Wakatime Insights</i> :
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Er_Jrsingh/36dc9757-d02d-4902-9013-91de98faeffd.png" width="48%"/></a>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Er_Jrsingh/4f6101c8-8d9c-4fc5-8128-0bcccdffc51a.png" width="48%"/></a>
+<!-- Wakatime Reports -->
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Er_Jrsingh/7fbb4e36-10f6-4ac7-b1df-b52bb7507d48.png" width="48%"/></a>
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Er_Jrsingh/0f0370f8-5012-4b3b-af3a-2ff500fc4b72.png" width="48%"/></a>
 
 <!-- Repo Card -->
 <p>
