@@ -6,7 +6,7 @@
 
 > #### 🌱 I’m Currently Learning : **_Microservices_**
 > #### <⁄> LeetCode : <a href="https://leetcode.com/Me-Jitesh/" target="_blank"> »»⨳»» </a>
-> #### 🛢 Logistics Inventory Management Project Hosted : <a href="https://ishopee.up.railway.app/" target="_blank"> »»⨳»» </a>
+> #### 🛢 Logistics Inventory Management Project Hosted : <a href="https://ishopee.onrender.com/" target="_blank"> »»⨳»» </a>
 > #### 🏆 <i>My Wakatime Insights</i> :
 
 <hr>
