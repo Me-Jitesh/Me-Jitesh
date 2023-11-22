@@ -1,19 +1,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=me-jitesh&label=PROFILE%20VISITS&color=blueviolet&style=flat" alt="me-jitesh"/> </p>
 
-![Header](./github-header-image.png)
-
-<hr>
-
 > #### 🌱 I’m Currently Learning : **_Microservices_**
 > #### <⁄> LeetCode : <a href="https://leetcode.com/Me-Jitesh/" target="_blank"> »»⨳»» </a>
-> #### 🛢 Logistics Inventory Management Project Hosted : <a href="https://ishopee.onrender.com/" target="_blank"> »»⨳»» </a>
+> #### 👾 Code Time : <a href="https://wakatime.com/@Er_Jrsingh" target="_blank"> »»⨳»» </a>
+> #### 🛢 Logistics Inventory Management Project Hosted : <a href="https://ishopee.onrender.com/analytics/" target="_blank"> »»⨳»» </a>
 > #### 🏆 <i>My Wakatime Insights</i> :
 
 <hr>
 
 <!-- Wakatime Reports -->
-  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Er_Jrsingh/7fbb4e36-10f6-4ac7-b1df-b52bb7507d48.png" width="48%"/></a>
-  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Er_Jrsingh/0f0370f8-5012-4b3b-af3a-2ff500fc4b72.png" width="48%"/></a>
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Er_Jrsingh/e746cc8e-4ee8-4d34-918f-1ad2d630efd9.png" width="48%" /></a>
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Er_Jrsingh/60910827-f5a0-49c2-ab96-25aebca0a322.png" width="48%"/></a>
 
 <!-- Repo Card -->
 <p>
@@ -26,8 +23,8 @@
 <!--  Wakatime stats -->
 <p> 
   <img align="center" 
-       src="https://github-readme-stats.vercel.app/api/wakatime?username=Er_Jrsingh&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true" 
-       alt="me-jitesh" width="47%" height="100%"
+       src="https://github-readme-stats.vercel.app/api/wakatime?username=@Er_Jrsingh&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true" 
+       alt="me-jitesh" width="47%"
   />
 </p>
 
