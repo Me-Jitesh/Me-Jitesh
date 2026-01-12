@@ -15,7 +15,7 @@
 <!-- Repo Card -->
 <p>
   <img align="left" 
-       src="https://github-readme-stats.vercel.app/api/pin/?username=me-jitesh&repo=LogisticsInventoryManagement&theme=midnight-purple&hide_border=true" 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=me-jitesh&repo=LogisticsInventoryManagement&theme=midnight-purple&hide_border=true" 
        alt="me-jitesh" width="47%"
  />
 </p>
@@ -31,7 +31,7 @@
 <!--  GitHub Stats -->
 <p> 
   <img align="left" 
-       src="https://github-readme-stats.vercel.app/api?username=me-jitesh&local=en&theme=midnight-purple&hide_border=true&show_icons=true" 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=me-jitesh&local=en&theme=midnight-purple&hide_border=true&show_icons=true" 
        alt="me-jitesh" width="47%"
   />
 </p>
