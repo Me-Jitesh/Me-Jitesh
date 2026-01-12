@@ -13,33 +13,34 @@
   <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Er_Jrsingh/60910827-f5a0-49c2-ab96-25aebca0a322.png" width="48%"/></a>
 
 <!-- Repo Card -->
-<p>
+<!-- <p>
   <img align="left" 
        src="https://github-readme-streak-stats.herokuapp.com/?user=me-jitesh&repo=LogisticsInventoryManagement&theme=midnight-purple&hide_border=true" 
        alt="me-jitesh" width="47%"
  />
-</p>
+</p> -->
 
 <!--  Wakatime stats -->
-<p> 
+<!-- <p> 
   <img align="center" 
        src="https://github-readme-stats.vercel.app/api/wakatime?username=@Er_Jrsingh&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true" 
        alt="me-jitesh" width="47%"
   />
-</p>
+</p> -->
 
 <!--  GitHub Stats -->
-<p> 
+<!-- <p> 
   <img align="left" 
        src="https://github-readme-streak-stats.herokuapp.com/?user=me-jitesh&local=en&theme=midnight-purple&hide_border=true&show_icons=true" 
        alt="me-jitesh" width="47%"
   />
-</p>
+</p> -->
 
 <!--  Streak Stats -->
-<p> 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=me-jitesh)](https://git.io/streak-stats)
+<!-- <p> 
   <img align="left" 
        src="https://github-readme-streak-stats.herokuapp.com/?user=me-jitesh&theme=midnight-purple&hide_border=true" 
        alt="me-jitesh" width="47%"
   />
-</p>
+</p> -->
